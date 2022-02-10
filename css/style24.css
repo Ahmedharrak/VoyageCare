@@ -1,0 +1,30 @@
+.div{
+	background-color:#EAECEE;
+	position: relative;
+	border: 2px solid #2980B9;
+  top:10px;
+	margin: auto;	
+	width: 700px;
+	padding: 50px;
+	border-radius: 20px;
+	box-shadow: 10px 10px 10px;
+}
+table{
+	margin-left: -5px;
+	width: 600px;
+	
+}
+tr{
+}
+table ,td{
+	border: 2px solid blue;
+}
+tr:nth-child(1){
+	background-color:#3498DB;
+	font-size: 18px;
+}
+p{
+     color :#250F4A;   
+	font-size: 18px;
+	margin-top: 50px;
+}

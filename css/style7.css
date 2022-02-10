@@ -1,0 +1,49 @@
+@media only screen and (max-width: 550px )
+{
+
+.form
+{
+	top: 170px;
+	height: 400px;
+	width: 355px;
+	margin-top: 80px;
+	margin-left: 0px;
+	margin: none;	
+	padding: 5px;
+}
+	.form select
+{
+	margin:0px 0px;
+	height: 25px;
+	margin-top: -px
+}
+.form label
+{
+	margin-right: 100px;
+}
+	.form input[type=date]
+{
+	margin-left: -200px;
+	}
+
+.form input[type=submit]
+{
+	margin-top: 60px;
+	width: 350px;
+}
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

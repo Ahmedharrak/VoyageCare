@@ -1,0 +1,92 @@
+@media only screen and (max-width: 550px )
+{
+ header ul{
+   margin-left: 5px;
+}
+#tex,button{
+             height: 20px;
+   width: 70px
+}
+   #lon{
+   height: 20px;
+   width: 55px;
+       }
+#rech{
+   width:25px;
+   height: 20px;
+   }
+     
+#im{
+   width: 88vw;
+   height: 80px;
+}
+.na li
+   {
+      float: left;
+      margin: 0px;
+      height: 40px;
+      width: 200px;
+      margin-top: 5px;
+    
+  
+   }
+   .na li :hover{
+    border-bottom: none;
+ 
+}
+   .na a{
+      margin-top: -5px;
+   }
+
+   .na li a
+   {
+      height: 0px;
+      font-size: 15px
+   
+   }
+   #carousel-example-generic{
+      margin-top: 190px;
+   }   
+   .foot
+{
+  
+   height: 850px;
+  margin-top: 80px;
+}
+.art
+{
+float: left; 
+   display: inline;
+   margin-left: 150px
+}
+.art
+{
+   
+   float: left;
+   width: 60%;
+    color: blue;
+   margin-left: 70px;
+}
+.art li
+{
+   list-style: none;
+   text-align: left;
+   
+}
+.art a
+{
+   color: blue;
+    text-decoration: none;
+}
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+}

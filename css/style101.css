@@ -1,0 +1,26 @@
+
+.code{
+	background-color:rgba(1,0,8,0);
+	position: relative;
+	border: 2px solid red;
+    top:40px;
+		color: black;
+	height: 300px;
+	margin: auto;	
+	width: 550px;
+	padding: 50px;
+	border-radius: 20px;
+box-shadow: 10px 10px 10px black;
+}
+.code p{text-align: justify; width:400px;}
+.code input[type=submit]{
+		margin-top: 60px;
+	width: 400px;
+	height: 30px;
+	font-size: 16px;
+	border-radius: 20px;
+	color: white;
+	background: rgb(0,0,0,0.5);
+	cursor: pointer;
+	border: none;
+}

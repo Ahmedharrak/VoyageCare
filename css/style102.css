@@ -1,0 +1,76 @@
+.it{
+	color:red;
+	font-size: 20px;
+}
+.iv{
+	color:red;
+}
+ 
+
+input[type=submit]
+{
+	margin-top: 20px;
+	width: 400px;
+	height: 30px;
+	font-size: 16px;
+	border-radius: 20px;
+	color: white;
+	background: rgb(0,0,0,0.5);
+	cursor: pointer;
+	border: none;
+	margin-left: 110px;
+}
+table { margin-top:100px; width:600px; height:100px; margin-left:10px;  solid  blue ; border-collapse: collapse;}
+td, th{ 
+margin-left: 170px;  solid  blue ; } 
+section{
+border:2px blue ridge;
+	width:650px;
+	height: 500px;
+	margin-left: 350px;
+	margin-right: 100px;
+	margin-top:20px;
+	background-color:white;
+	background-image: url("../image/25.jpg");
+	text-align: justify;
+		border-radius: 20px;
+box-shadow: 10px 10px 10px black;
+
+
+}
+h1{
+	background-color: red ;
+	margin-bottom: -20px;
+}
+h2{
+	background-color: blue;
+	margin-top:20px;
+
+}
+.info{
+	margin-top: 20px;
+}
+.info input[type=text]{
+		width: 150px;
+	margin-top: 20px;
+	margin-left: 30px;
+	border: 2px solid black;
+	height: 25px;
+	box-shadow: 10px 10px 10px;
+}
+.info input[type=mail]{
+		width: 150px;
+	margin-top: 20px;
+	margin-left: 30px;
+	border: 2px solid black;
+	height: 25px;
+	box-shadow: 10px 10px 10px;
+}
+.info select {
+	width: 150px;
+	margin-top: 20px;
+	margin-left: 30px;
+	border: 2px solid black;
+	height: 25px;
+	box-shadow: 10px 10px 10px;
+}
