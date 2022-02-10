@@ -22,7 +22,7 @@
 		  echo'<a href="réserver un billet.php"> réserver un billet </a>';
 		 }
 		 else{
-			 header("Location: http://localhost/projet/client.php");
+			 header("Location: http://localhost:8080/VoyageCar/Client.php");
 			
 		 }
 		 	$_SESSION['sum']=$sum;
